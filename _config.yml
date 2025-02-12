@@ -22,13 +22,13 @@ repository               : "juanmi82mg/juanmi82mg.github.io"
 author:
   # Biographic information
   avatar           : "Picture.png"
-  name             : "Salvador Pineda"
+  name             : "Juan Miguel Morales"
   pronouns         : # example: "she/her"  
-  bio              : "🏳️‍🌈🔬🧑‍🔬🤘🌍📖💻🚲♻️♟️"
+  bio              : #"🏳️‍🌈🔬🧑‍🔬🤘🌍📖💻🚲♻️♟️"
   location         : "Málaga (Spain)"
   employer         : "University of Málaga"
   uri              : # URL
-  email            : "spineda@uma.es" 
+  email            : "juan.morales@uma.es" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "salvapineda.bsky.social" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "spinedamorente"
+  linkedin         : "juan-miguel-morales-gonzález-06337247"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
