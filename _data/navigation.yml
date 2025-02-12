@@ -11,11 +11,11 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "Conferences"
-    url: /conferences/
+  - title: "Students"
+    url: /students/
   
-  - title: "Seminars"
-    url: /seminars/
+#  - title: "Seminars"
+#    url: /seminars/
     
 #  - title: "Talks"
 #    url: /talks/    
@@ -29,11 +29,11 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
     
  # - title: "Guide"
  #   url: /markdown/
 
-  - title: "Links"
-    url: /links/
+ # - title: "Links"
+ #   url: /links/
