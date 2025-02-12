@@ -7,11 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at the Department of Electrical Engineering at the University of Málaga. Previously, I worked at the Department of Mathematical Sciences at the University of Copenhagen (2013–2016) and the Center for Electric Power and Energy at the Technical University of Denmark (2011–2013).
+Hi! I'm Juan M. Morales, Full Professor in the [Department of Mathematical Analysis, Statistics and Operations Research, and Applied Mathematics](https://www.uma.es/AMEIOMA/) at the [University of Málaga](http://www.uma.es/?set_language=en), in Spain. I am currently the head of the research group [Optimization and Analytics for Sustainable energY Systems](https://sites.google.com/view/groupoasys/home) (OASYS).
 
-I earned my Ph.D. in Electrical Engineering from the University of Castilla-La Mancha (Spain) in 2011, under the supervision of Prof. Antonio Conejo. My doctoral research, titled "Medium-term electricity trading for risk-averse power producers via stochastic programming," developed stochastic mathematical models to optimize the trading strategies of power producers in electricity derivatives markets. I also hold a B.Sc. and M.Sc. in Electrical Engineering from the University of Málaga, obtained in 2004 and 2006, respectively.
+I  previously held a position as an Associate Professor in the [Department of Applied Mathematics and Computer Science](http://www.compute.dtu.dk/english) at the [Technical University of Denmark](http://www.dtu.dk/), where I also worked as a Hans Christian Ørsted postdoctoral researcher before that. Besides, I was an assistant professor in the [Center for Electric Power and Energy](http://www.cee.dtu.dk/English.aspx) of the same university.
 
-My research focuses on power system operation and planning, decision-making under uncertainty, bilevel programming, machine learning, and statistics.
+My research interests fall within the fields of operations research, applied statistics and energy economics and systems, and comprise mathematical programming and techniques of optimization under uncertainty, decision making, hierarchical and inverse optimization, time series analysis, reliability, renewable energy sources, energy systems modeling, demand response, electricity markets, and smart grids.
+
+I received my PhD in Electrical Engineering in December 2010 at the [University of Castilla-La Mancha](http://www.uclm.es/english/) (Spain), with the PhD thesis "Impact on System Economics and Security of a High Penetration of Wind Power," where I developed algorithms to facilitate the large-scale integration of wind power production in electric energy systems.
+
+Previously I got my B.Sc. and M.Sc. in Industrial Engineering at the [University of Málaga](http://www.uma.es/), Spain.
+
+You can find my most updated CV [here](https://github.com/Juanmi82mg/Material/blob/main/CV.pdf)
+
 
 # Contact
 
