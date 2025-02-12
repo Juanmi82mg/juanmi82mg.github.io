@@ -122,7 +122,7 @@ author_profile: true
 2.  H. Madsen, J.M. Morales, P.-J. Trombe, G. Giebel, H.E. J.ørgensen, P. Pinson (2014). Wind resource assessment and wind power forecasting. In DTU International Energy Report 2014: Wind Energy - Drivers and Barriers for Higher Shares of Wind in the Global Power Generation Mix, H.H. Larsen and L.S. Petersen (eds.), Chapter 10, pp. 72-78 ([pdf](https://backend.orbit.dtu.dk/ws/portalfiles/portal/102458252/DTU_INTL_ENERGY_REP_2014_WIND_72_78.pdf)) 
 3.  P.E. Morthorst, J.M. Morales, S. Schröder (2014). Wind economics. In DTU International Energy Report 2014: Wind Energy - Drivers and Barriers for Higher Shares of Wind in the Global Power Generation Mix, H.H. Larsen and L.S. Petersen (eds.), Chapter 11, pp. 79-85 ([pdf](https://backend.orbit.dtu.dk/ws/portalfiles/portal/102458426/DTU_INTL_ENERGY_REP_2014_WIND_79_85.pdf))
 
-#Ph.D. Dissertation#: Impact on System Economics and Security of a High Penetration of Wind Power, E.T.S. I. Industriales, Universidad de Castilla - La Mancha, December 2010 ([pdf](https://drive.google.com/file/d/1pAiUePX4oTrf0PdXhzmEEtUInoCFiUTF/view?usp=sharing))
+**Ph.D. Dissertation**: Impact on System Economics and Security of a High Penetration of Wind Power, E.T.S. I. Industriales, Universidad de Castilla - La Mancha, December 2010 ([pdf](https://drive.google.com/file/d/1pAiUePX4oTrf0PdXhzmEEtUInoCFiUTF/view?usp=sharing))
 
-#MSc. Project#: Application of Point Estimate Methods to the Probabilistic Power Flow Problem (in Spanish), E.T.S. I. Industriales, Universidad de Málaga, June 2006 ([pdf](https://drive.google.com/file/d/0BzX2DqsJxIYpMzVZRFJkSlRsMWc/view?usp=sharing&resourcekey=0-wa3pN45o2ubjOzkyaVecCA))
+**MSc. Project**: Application of Point Estimate Methods to the Probabilistic Power Flow Problem (in Spanish), E.T.S. I. Industriales, Universidad de Málaga, June 2006 ([pdf](https://drive.google.com/file/d/0BzX2DqsJxIYpMzVZRFJkSlRsMWc/view?usp=sharing&resourcekey=0-wa3pN45o2ubjOzkyaVecCA))
 
