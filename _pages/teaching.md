@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-# Currently teaching:
+## Currently teaching:
 
 [UMA - Science Building](https://sara.uma.es/ht/2024/ProgramasAsignaturas_Titulacion_5003_AsigUMA_51499.pdf) - OPTIMIZACIÓN (in Spanish). 
 
@@ -14,7 +14,7 @@ This Bachelor of Science (BSc) course in Mathematics explores key topics includi
 
 This is a BSc. course in Mathematics that covers fundamental aspects of Machine Learning and decision-making under uncertainty.
 
-# From Fall 2016 to Spring 2023 
+## From Fall 2016 to Spring 2023 
 
 [UMA - Industrial Engineering Building](https://oas.sci.uma.es:8443/ht/2016/ProgramasAsignaturas_Titulacion_5046_AsigUMA_52653.pdf) - ANÁLISIS VECTORIAL Y ESTADÍSTICA (in Spanish): [Group activities](https://github.com/Juanmi82mg/Material/blob/main/Sesiones_grupales.zip)
 
@@ -32,19 +32,19 @@ This is a basic BSc. course covering elementary linear algebra techniques and co
 
 This BSc. course covers a range of numerical methods for solving nonlinear equations, systems of linear equations, ordinary differential equations, interpolation and approximation techniques, numerical integration, etc.
 
-# Fall 2016
+## Fall 2016
 
 [UMA - EPS -](https://oas.sci.uma.es:8443/ht/2016/ProgramasAsignaturas_Titulacion_5046_AsigUMA_52648.pdf) CÁLCULO (in Spanish)
 
 This BSc. course covers elementary mathematical techniques that are widely used in Engineering, such as complex numbers, integration, derivation, continuity, scalar fields, numerical methods, optimization, etc.
 
-# Spring 2016/Spring 2014
+## Spring 2016/Spring 2014
 
 [DTU Compute](http://www.kurser.dtu.dk/courses/02435/default.aspx?menulanguage=en-GB) - DECISION MAKING UNDER UNCERTAINTY IN ELECTRICITY MARKETS (Teaching material: [Spring-2016 version](https://sites.google.com/site/decmakem/))
 
 This MSc. course covers techniques of optimization under uncertainty to assist energy producers, retailers, and consumers in participating in electricity markets and improve market efficiency through enhanced market-clearing algorithms. You can find more information and material related to this course in the [course website](https://sites.google.com/site/decmakem/)
 
-# Spring 2012
+## Spring 2012
 
 [DTU Compute](http://www.kurser.dtu.dk/courses/02435/default.aspx?menulanguage=en-GB) - TOOLS FOR DECISION MAKING UNDER UNCERTAINTY IN ELECTRICITY MARKETS ([Teaching material](https://drive.google.com/uc?export=download&id=1vc_7pN-ip9JtljxnkTHQMZs9SkCEAoRY))
 
