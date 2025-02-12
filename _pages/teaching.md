@@ -42,7 +42,7 @@ This BSc. course covers elementary mathematical techniques that are widely used 
 
 [DTU 02435](http://www.kurser.dtu.dk/courses/02435/default.aspx?menulanguage=en-GB) - DECISION MAKING UNDER UNCERTAINTY IN ELECTRICITY MARKETS (Teaching material: [Spring-2016 version](https://sites.google.com/site/decmakem/))
 
-This MSc. course covers techniques of optimization under uncertainty to assist energy producers, retailers, and consumers in participating in electricity markets and improve market efficiency through enhanced market-clearing algorithms. You can find more information and material related to this course in [DTU Kursusbasen](http://www.kurser.dtu.dk/courses/02435/default.aspx?menulanguage=en-GB) and in the [course website](https://sites.google.com/site/decmakem/)
+This MSc. course covers techniques of optimization under uncertainty to assist energy producers, retailers, and consumers in participating in electricity markets and improve market efficiency through enhanced market-clearing algorithms. You can find more information and material related to this course in the [course website](https://sites.google.com/site/decmakem/)
 
 # Spring 2012
 
