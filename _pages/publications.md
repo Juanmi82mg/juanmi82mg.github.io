@@ -97,7 +97,7 @@ author_profile: true
 
 ## Current research projects
 
-1.  DYCON - Data-driven Optimization Under a Dynamic Context (01/09/2021 - 01/02/2025): Principal Investigator. Funding entity: Spanish Ministry of Innovation and Science (PID2020-115460GB-I00)
+1.  MSOpt - Mathematical Methods for the Optimization of Decision-making Processes based on Multi-source Data (01/09/2024 - 31/08/2028): Principal Investigator. Funding entity: Spanish Ministry of Innovation and Science (PID2023-148291NB-I00)
 2.  DYCON - Data-driven Optimization Under a Dynamic Context (01/09/2021 - 01/02/2025): Principal Investigator. Funding entity: Spanish Ministry of Innovation and Science (PID2020-115460GB-I00)
    
 ## Past research projects
