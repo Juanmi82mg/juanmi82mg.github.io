@@ -24,7 +24,7 @@ author:
   avatar           : "Fotos_UMA_01.jpg"
   name             : "Juan Miguel Morales"
   pronouns         : # example: "she/her"  
-  bio              : #"🏳️‍🌈🔬🧑‍🔬🤘🌍📖💻🚲♻️♟️"
+  bio              : Full professor
   location         : "Málaga (Spain)"
   employer         : "University of Málaga"
   uri              : # URL
@@ -34,11 +34,11 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.es/citations?user=OZFGJdsAAAAJ&hl=es"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-1089-0970?lang=en"
+  orcid            : "https://orcid.org/0000-0002-9114-686X"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FSalvador-Pineda-3&sa=D&sntz=1&usg=AOvVaw2IvZABYXFDFNqZoTryoCGs"
-  scopus           : "https://www.google.com/url?q=https%3A%2F%2Fwww.scopus.com%2Fauthid%2Fdetail.uri%3FauthorId%3D26649593600&sa=D&sntz=1&usg=AOvVaw00p3TTQ1QZGt8-YUmgRhf7"
+  researchgate     : "https://www.researchgate.net/scientific-contributions/Juan-Miguel-Morales-2252089805"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=23009522600"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -69,7 +69,7 @@ author:
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
-  wikipedia        : "salvapineda"
+  wikipedia        : #"salvapineda"
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
