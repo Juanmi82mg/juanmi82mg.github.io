@@ -97,18 +97,19 @@ author_profile: true
 
 ## Current research projects
 
-1.  FlexAnalytics - Advanced Analytics to Empower the Small Flexible Consumers of Electricity (2018-2023): Principal Investigator. Funding entity: The European Research Council (ERC-STG-2017)
-2.  DYCON - Data-driven Optimization Under a Dynamic Context (01/09/2021 - 31/08/2024): Principal Investigator. Funding entity: Spanish Ministry of Innovation and Science (PID2020-115460GB-I00)
-3.  Mathematical Optimization Methods for Decision Making Using Contextual Information (23/06/2021 - 31/12/2022): Principal Investigator. Funding entity: Andalusia Regional Government (Council for Economic Transformation, Industry,  Knowledge and Universities) (P20\_00153)
-
+1.  DYCON - Data-driven Optimization Under a Dynamic Context (01/09/2021 - 01/02/2025): Principal Investigator. Funding entity: Spanish Ministry of Innovation and Science (PID2020-115460GB-I00)
+2.  DYCON - Data-driven Optimization Under a Dynamic Context (01/09/2021 - 01/02/2025): Principal Investigator. Funding entity: Spanish Ministry of Innovation and Science (PID2020-115460GB-I00)
+   
 ## Past research projects
 
-1.  PowerMath - Mathematical Methods for Data-driven Power Systems. Principal Investigator. Funding entity: Spanish Research Agency (ENE2017-83775-P)
-2.  SAND: Smart Distribution Grid Simulator (2018-2019). Principal Investigator. Funding Entity: Fundación Iberdrola España.
-3.  OD^2ES - Decision-Making with Big Data: Applications to Renewable Energy Systems (2017-2019): Principal Investigator. Funding Entity: Universidad de Málaga (Research Funding Program for Young Talented Researchers) (PPIT-UMA-B1-2017/18).
-4.  SmartNet -Smart TSO-DSO interaction schemes, market architectures and ICT Solutions for the integration of ancillary services from demand-side management and distributed generation (2016-2018): Leader of work package "Market architectures to integrate ancillary services from distributed energy resources.'' ([website](http://smartnet-project.eu/)) Funding entity: H2020-EU.
-5.  CITIES - Centre for IT-Intelligent Energy Systems in Cities (2014-2019): Leader of work package 7 "Decision Making and Support Systems" (development of decision-making models for the optimal market participation of energy companies in smart cities, given the flexibility and controllability of the loads and production, transmission, storage and conversion resources that form energy companies’ portfolios ([website](http://smart-cities-centre.org/)). Funding entity: Danish Strategic Research Council (DSF).
-6.  5s - Future Electricity Markets (2013-2017): Within this project, my research focuses on potential designs for the electricity markets of the future, including new market-clearing mechanisms, demand-side management, economic incentives for capacity investments and adequacy, etc. ([website](http://www.futureelmarket.dk/Home)). Funding entity: Danish Strategic Research Council (DSF).
+1.  FlexAnalytics - Advanced Analytics to Empower the Small Flexible Consumers of Electricity (2018-2024): Principal Investigator. Funding entity: The European Research Council (ERC-STG-2017)
+2.  Mathematical Optimization Methods for Decision Making Using Contextual Information (23/06/2021 - 31/12/2022): Principal Investigator. Funding entity: Andalusia Regional Government (Council for Economic Transformation, Industry,  Knowledge and Universities) (P20\_00153)
+3.  PowerMath - Mathematical Methods for Data-driven Power Systems. Principal Investigator. Funding entity: Spanish Research Agency (ENE2017-83775-P)
+4.  SAND: Smart Distribution Grid Simulator (2018-2019). Principal Investigator. Funding Entity: Fundación Iberdrola España.
+5.  OD^2ES - Decision-Making with Big Data: Applications to Renewable Energy Systems (2017-2019): Principal Investigator. Funding Entity: Universidad de Málaga (Research Funding Program for Young Talented Researchers) (PPIT-UMA-B1-2017/18).
+6.  SmartNet -Smart TSO-DSO interaction schemes, market architectures and ICT Solutions for the integration of ancillary services from demand-side management and distributed generation (2016-2018): Leader of work package "Market architectures to integrate ancillary services from distributed energy resources.'' ([website](http://smartnet-project.eu/)) Funding entity: H2020-EU.
+7.  CITIES - Centre for IT-Intelligent Energy Systems in Cities (2014-2019): Leader of work package 7 "Decision Making and Support Systems" (development of decision-making models for the optimal market participation of energy companies in smart cities, given the flexibility and controllability of the loads and production, transmission, storage and conversion resources that form energy companies’ portfolios ([website](http://smart-cities-centre.org/)). Funding entity: Danish Strategic Research Council (DSF).
+8.  5s - Future Electricity Markets (2013-2017): Within this project, my research focuses on potential designs for the electricity markets of the future, including new market-clearing mechanisms, demand-side management, economic incentives for capacity investments and adequacy, etc. ([website](http://www.futureelmarket.dk/Home)). Funding entity: Danish Strategic Research Council (DSF).
 
 ## Books
 
