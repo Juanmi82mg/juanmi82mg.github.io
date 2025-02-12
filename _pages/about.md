@@ -23,15 +23,14 @@ You can find my most updated CV [here](https://github.com/Juanmi82mg/Material/b
 # Contact
 
 **Address:**  
-Edif. Ingenierías Office 2.085D,  
-C/ Doctor Ortíz Ramos s/n,  
-29071, Málaga, Spain  
-[Directions](https://maps.google.com/maps?ll=36.714982,-4.491975&z=16&t=m&hl=en-US&gl=US&mapclient=embed&daddr=UMA%3A%20Escuela%20T%C3%A9cnica%20Superior%20de%20Ingenier%C3%ADa%20Industrial%20Edificio%20de%20Ingenier%C3%ADas%2C%20UMA%20Campus%20de%20Teatinos%20C%2F%20Doctor%20Ortiz%20Ramos%2C%20S%2FN%2029071%20M%C3%A1laga%2C%20Spain@36.7154756,-4.4931618)
+Edificio de Investigación Ada Byron
+Despacho A.1.2
+UMA Teatinos, C/Arquitecto Francisco Peñalosa 18, 29010 Málaga (España)
+[Directions](https://maps.app.goo.gl/J1aJ4sKtqYpS2Ku68)
 
 **Phone:**  
-0034 ​951952357  
-0034 681600943
-
+0034 951932011  
+0034 951952942
 **Email:**  
-[spineda@uma.es](mailto:spineda@uma.es)
+[juan.morales@uma.es](mailto:juan.morales@uma.es)
 
