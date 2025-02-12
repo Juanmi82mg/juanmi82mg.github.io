@@ -6,15 +6,17 @@ author_profile: true
 
 ## Current PhD Students
 
-Jesús Huete Cubillo (with Dr. Salvador Pineda): Análisis, diseño e implementación de algoritmos de optimización y control para la gestión eficiente del consumo energético en edificios (2021-2024), Industrial PhD.
+José Gómez de la Varga (with Dr. Salvador Pineda): Physics-informed Machine Learning for Power System Operations (2022-2026)
 
-Álvaro Porras Cabrera (with Dr. Salvador Pineda): Enhancing Power System Operation through Learning, (2020-2024)
-
-Miguel Ángel Muñoz Díaz (with Dr. Salvador Pineda): Leveraging Big Data in Power System Operation (2018-2022)
-
-Adrián Esteban Pérez: Data-driven Decision-making Under Uncertainty (2018-2022)
+Ignacio Repiso López (with Dr. Salvador Pineda): Machine Learning for Optimization (2025-2029)
 
 ## Graduated PhD Students
+
+Álvaro Porras Cabrera (with Dr. Salvador Pineda): Tight and Compact Models for Power Systems Operation (September 2023)
+
+Miguel Ángel Muñoz Díaz (with Dr. Salvador Pineda): Prescriptive Analytics in Electricity Markets (September 2022)
+
+Adrián Esteban Pérez: Theory and Applications of Distributionally Robust Optimization with Side Data (September 2022)
 
 Giulia de Zotti (with Dr. N. K. Poulsen,  Prof. H. Madsen and A. Pourmousavi Kani): Leveraging Consumers'  Flexibility for the Provision of Ancillary Services (June 2019)
 
