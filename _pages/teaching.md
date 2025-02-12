@@ -6,11 +6,11 @@ author_profile: true
 
 # Currently teaching:
 
-[UMA - Science Building]([https://oas.sci.uma.es:8443/ht/2016/ProgramasAsignaturas_Titulacion_5046_AsigUMA_52653.pdf](https://sara.uma.es/ht/2024/ProgramasAsignaturas_Titulacion_5003_AsigUMA_51499.pdf)) - OPTIMIZACIÓN (in Spanish). 
+[UMA - Science Building](https://sara.uma.es/ht/2024/ProgramasAsignaturas_Titulacion_5003_AsigUMA_51499.pdf) - OPTIMIZACIÓN (in Spanish). 
 
 This Bachelor of Science (BSc) course in Mathematics explores key topics including the fundamentals of polyhedra, linear programming, duality theory, and combinatorial optimization.
 
-[UMA - Science Building]([https://oas.sci.uma.es:8443/ht/2016/ProgramasAsignaturas_Titulacion_5046_AsigUMA_52653.pdf](https://sara.uma.es/ht/2024/ProgramasAsignaturas_Titulacion_5003_AsigUMA_51499.pdf)) - OPERATIONS RESEARCH (in Spanish). 
+[UMA - Science Building](https://sara.uma.es/ht/2024/ProgramasAsignaturas_Titulacion_5003_AsigUMA_51528.pdf) - INVESTIGACIÓN OPERATIVA (in Spanish). 
 
 This is a BSc. course in Mathematics that covers fundamental aspects of Machine Learning and decision-making under uncertainty.
 
@@ -20,7 +20,7 @@ This is a BSc. course in Mathematics that covers fundamental aspects of Machine 
 
 This BSc. course is divided into three blocks. The first one comprises concepts and methods from differential geometry and its applications to parameterized curves and surfaces. The second block deals with vector calculus, including line, multiple and surface integrals and related theorems. The third block consists of an introductory course to statistics (descriptive statistics, probability theory, random variables, hypothesis testing, etc.)
 
-[UMA -](https://oas.sci.uma.es:8443/ht/2016/ProgramasAsignaturas_Titulacion_5046_AsigUMA_52648.pdf) [Industrial Engineering Building](https://oas.sci.uma.es:8443/ht/2016/ProgramasAsignaturas_Titulacion_5046_AsigUMA_52653.pdf) - CÁLCULO (in Spanish). Teaching material: Group activities
+[UMA -](https://oas.sci.uma.es:8443/ht/2016/ProgramasAsignaturas_Titulacion_5046_AsigUMA_52648.pdf) [Industrial Engineering Building](https://oas.sci.uma.es:8443/ht/2016/ProgramasAsignaturas_Titulacion_5046_AsigUMA_52653.pdf) - CÁLCULO (in Spanish). Teaching material: [Group activities](https://github.com/Juanmi82mg/Material/blob/main/Material_Din%C3%A1mica-Maestro-Aprendiz.zip)
 
 This BSc. course covers elementary mathematical techniques that are widely used in Engineering, such as complex numbers, integration, derivation, continuity, scalar fields, numerical methods, optimization, etc.
 
